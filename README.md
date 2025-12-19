@@ -6,6 +6,14 @@ Play music touch-free by simply moving your hands in front of your camera.
 This project is an interactive instrument that transforms hand movements into sound in real-time.
 The program detects your hand position via webcam to trigger notes on a virtual grid inside a choosen musical scale.
 
+You have basic waveforms such as sine, triangle, and square.
+
+You also have envelope settings that allow you to create bell sounds or pads with a slow attack.
+The synthesizer does not include reverb, but you can simulate it by choosing a long release.
+
+You have the possibility to choose between different musical scales like chromatic, pentatonic, major and minor.
+You can very easily add your own by modifiyng some variables in the python code.
+
 <img src="/doc/campreview.png" alt="cam preview" style="width:60%; height:auto;"> ![synthgui](/doc/synthgui.png)
 
 Press Q to exit
@@ -44,7 +52,7 @@ You should install `mediapipe==0.10.21` and work with python version 12 or less 
 
 ## More
 
-This is more a proof of concept than a finiched project so feel free to make a pull requests if you found a bug or if you want to contribute.
+This is more a proof of concept than a finished project, so feel free to make a pull requests if you found a bug or if you want to contribute.
 
 ## Sources
 
