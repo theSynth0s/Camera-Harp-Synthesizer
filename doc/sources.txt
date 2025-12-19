@@ -4,4 +4,3 @@ https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/hands.md
 https://github.com/Sousannah/hand-tracking-using-mediapipe/tree/main
 https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
 https://diymidicontroller.com/midi-note-chart/
-https://www.deepl.com/fr/translator
