@@ -1,0 +1,7 @@
+https://trymypy.com/python-synthesizer-build-your-own-sound-generator-with-pyaudio-and-numpy/
+https://medium.com/@kyang3200/deeplearning-hands-tracking-by-mediapipe-b91b5bf252e8
+https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/hands.md
+https://github.com/Sousannah/hand-tracking-using-mediapipe/tree/main
+https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+https://diymidicontroller.com/midi-note-chart/
+https://www.deepl.com/fr/translator
