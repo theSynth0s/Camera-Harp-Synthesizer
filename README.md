@@ -6,6 +6,18 @@ Play music touch-free by simply moving your hands in front of your camera.
 This project is an interactive instrument that transforms hand movements into sound in real-time.
 The program detects your hand position via webcam to trigger notes on a virtual grid inside a choosen musical scale.
 
+## Results and  accuracy
+
+As soon as a hand is detected in the camera's field of view, the corresponding note is played.
+The software is relatively good at detecting hands even in bright or low light conditions.
+Detection also works if the hand is partially covered or partially outside the field of view.
+
+![flathand](/doc/flathand.png)
+![outhand](/doc/outhand.png)
+![coveredhand](/doc/coveredhand.png)
+
+## Improvement perspectives
+
 ## Dependencies
 
 The program was made in Python with the help of some libraries.
