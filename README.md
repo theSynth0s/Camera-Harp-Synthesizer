@@ -41,8 +41,8 @@ Because they run on two separated thread.
 ## Dependencies
 
 The program was made in Python with the help of some libraries.
-It use **Tkinter** (the python integrated lib) for the interface.
-It also use **OpenCV** for managing camera capture and display preview.
+It uses **Tkinter** (the python integrated lib) for the interface.
+It also uses **OpenCV** for managing camera capture and display preview.
 And **MediaPipe** for hand recognition and tracking.
 
 Install dependencies with : `pip install -r requirements.txt`
